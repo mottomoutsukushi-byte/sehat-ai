@@ -1,8 +1,14 @@
 # SehatAI - AI Health Triage for Rural Indonesia
-Live: https://sehat-ai.vercel.app
-Devpost: Arbiter Hacks V1
 
-- Scan gejala kulit
+AI teman kesehatan berbahasa Indonesia untuk desa.
+
+**Live Demo:** https://sehat-ai.vercel.app
+**Hackathon:** Arbiter Hacks V1
+
+### What it does
+- Scan gejala kulit (upload foto)
 - Chat triage Bahasa Indonesia
-- Cari Puskesmas Semarang
-Built with React, Gemini API, Firebase
+- Cari Puskesmas terdekat Semarang
+
+### Built with
+React, Gemini API, Firebase, Vercel
